@@ -49,10 +49,10 @@ Outils
 📌 Projets épinglés
 
 
-🌐 portfolio-bts-sio — Mon portfolio pour le BTS SIO
-🖥️ infra-reseau-virtualise — Projet d'infrastructure réseau virtualisée réalisé en cours
-🔌 switch-routeur-config-cisco (à venir) — Configuration et paramétrage d'équipements réseau (VLAN, routage, interconnexion) sur Cisco Packet Tracer et matériel physique
-🛡️ ctf-writeups (à venir) — Write-ups d'exercices/CTF réalisés sur TryHackMe / Hack The Box
+- 🌐 **[portfolio-bts-sio](https://github.com/diegoakb-web/portfolio-bts-sio)** — Mon portfolio pour le BTS SIO
+- 🖥️ **[infra-reseau-virtualise](https://github.com/diegoakb-web/infra-reseau-virtualise)** — Projet d'infrastructure réseau virtualisée réalisé en cours
+- 🔌 **switch-routeur-config-cisco** *(à venir)* — Configuration et paramétrage d'équipements réseau (VLAN, routage, interconnexion) sur Cisco Packet Tracer et matériel physique
+- 🛡️ **ctf-writeups** *(à venir)* — Write-ups d'exercices/CTF réalisés sur TryHackMe / Hack The Box
 
 
 
