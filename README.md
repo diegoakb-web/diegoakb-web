@@ -58,7 +58,7 @@
 > Remplace les liens ci-dessous une fois tes dépôts créés sur GitHub.
 
 - 🔌 **[switch-routeur-config-cisco](#)** — Configuration et paramétrage d'équipements réseau (VLAN, routage, interconnexion) sur Cisco Packet Tracer et matériel physique
-- 🖥️ **[lab-virtualisation-vmware](#)** — Mise en place d'une infrastructure réseau virtualisée (serveurs, postes clients) avec VMware
+- 🖥️ **[infra-reseau-virtualise](#)** — Mise en place d'une infrastructure réseau virtualisée (serveurs, postes clients) avec VMware
 - 🗂️ **[gestion-parc-informatique](#)** — Scripts et procédures pour le suivi et la maintenance d'un parc de postes
 - 🛡️ **[ctf-writeups](#)** *(à venir)* — Write-ups d'exercices/CTF réalisés sur TryHackMe / Hack The Box
 
