@@ -55,7 +55,6 @@ Outils
 🛡️ ctf-writeups (à venir) — Write-ups d'exercices/CTF réalisés sur TryHackMe / Hack The Box
 
 
-
 📈 Statistiques GitHub
 
 <p align="center">
@@ -64,13 +63,6 @@ Outils
 </p>
 
 📫 Me contacter
-
-<p>
-  <a href="mailto:kubotadiego@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/diego-kubota-410b15350/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-</p>
-
-### 📫 Me contacter
 
 <p>
   <a href="mailto:kubotadiego@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
