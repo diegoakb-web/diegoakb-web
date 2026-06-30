@@ -55,11 +55,12 @@ Outils
 🛡️ ctf-writeups (à venir) — Write-ups d'exercices/CTF réalisés sur TryHackMe / Hack The Box
 
 
+
 📈 Statistiques GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=diegoakb-web&show_icons=true&theme=default&hide_title=false" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegoakb-web&theme=default" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=diegoakb-web&theme=default" height="165" />
 </p>
 
 📫 Me contacter
